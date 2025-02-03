@@ -1,0 +1,10 @@
+{
+  "name": "my-web-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node tests/test_index.js"
+  },
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
